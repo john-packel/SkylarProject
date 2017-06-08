@@ -1,7 +1,7 @@
 {
   "name": "stop-air-pollution",
   "version": "1.0.0",
-  "start": "index.jade",
+  "start": "index.js",
   "description": "Skylar school project",
   "dependencies": {
     "express": "^4.15.3",
